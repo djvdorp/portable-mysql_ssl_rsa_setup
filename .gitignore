@@ -1,2 +1,4 @@
 portable-mysql_ssl_rsa_setup
 *.pem
+*.key
+*.crt
